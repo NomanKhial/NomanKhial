@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on front-end mobile and web apps powered by react
 - 📫 How to reach me nomankhialb@gmail.com
-- 📫 Fallow me on [Linkdin]([url](https://pk.linkedin.com/in/noman-khial-2b804035a))
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I reject the failure before failure rejects me
 
