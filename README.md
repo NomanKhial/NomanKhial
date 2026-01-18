@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Khial</h1>
 <h3 align="center">Noman Khial Full-stack Web & App Developer | UI/UX Designer | Aspiring ML & AI Engineer | Python Enthusiast. Building seamless web apps, sleek mobile apps</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nomankhial&theme=onedark&card_width=100%" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nomankhial&theme=onedark&card_width=800" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on [Travel agency](https://github.com/NomanKhial/travel-agency)
 
