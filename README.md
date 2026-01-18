@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhial&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomankhial" alt="nomankhial" /></a> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nomankhial&theme=onedark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on [Travel agency](https://github.com/NomanKhial/travel-agency)
 
