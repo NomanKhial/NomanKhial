@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomankhial" alt="nomankhial" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/NomanKhial/travel-agency)
+- 🔭 I’m currently working on [Travel agency](https://github.com/NomanKhial/travel-agency)
 
 - 🌱 I’m currently learning **Machine Learning, and Deep Learning**
 
