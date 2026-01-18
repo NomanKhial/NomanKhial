@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomankhial&label=Profile%20views&color=0e75b6&style=flat" alt="nomankhial" /> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nomankhial&theme=onedark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nomankhial&theme=onedark" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on [Travel agency](https://github.com/NomanKhial/travel-agency)
 
